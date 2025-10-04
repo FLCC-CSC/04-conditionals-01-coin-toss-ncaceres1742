@@ -15,7 +15,7 @@ import random
 heads = 50
 
 
-print("==== Coin Flipper ====")
+print("===== Coin Flipper =====")
 coin_toss = random.randrange(0, 100)
 
 if coin_toss  <= heads:
